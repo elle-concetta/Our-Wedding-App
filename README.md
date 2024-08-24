@@ -1,3 +1,6 @@
+## Introduction
+A wedding invitation application with a reservation system using firebase hosting and database.
+
 ## Commands
 
 ```sh
