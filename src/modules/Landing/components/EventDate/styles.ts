@@ -12,7 +12,6 @@ export const styEventDateWrapper = css`
     padding: 1rem 0;
     font-size: 1.3em;
     text-transform: uppercase;
-    letter-spacing: 1.4em;
     font-weight: 700;
   }
 

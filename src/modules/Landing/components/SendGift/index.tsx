@@ -36,13 +36,16 @@ const SendGift: React.FC = () => {
             </animated.div>
           </div>
 
-          <div className="col">
+          <div className="col" style={{ textAlign: "center" }}>
             <button
                 onClick={() => {
-                  window.location.href =
-                      "https://www.amazon.com/wedding/share/ankit-and-elle";
+                  window.location.href = "https://www.amazon.com/wedding/share/ankit-and-elle";
                 }}
-                className="your-button-class" // Add any necessary className here
+                style={{
+                  fontWeight: "bold",
+                  padding: "10px 20px",
+                  fontSize: "16px",
+                }}
             >
               Visit Registry
             </button>

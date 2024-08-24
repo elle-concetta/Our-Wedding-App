@@ -25,7 +25,17 @@ const Footer = () => {
           <p>
             <b>Ankit & Elle</b>
           </p>
-          <p> &copy; 2024 Created with 🤍 by <a href="https://github.com/elle-concetta" target="_blank" rel="noopener noreferrer">Elle</a></p>
+            <p style={{backgroundColor: "black", color: "white"}}>
+                &copy; 2024 Created with 🤍 by{" "}
+                <a
+                    href="https://github.com/elle-concetta"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{color: "white"}}
+                >
+                    Elle
+                </a>
+            </p>
         </AnimatedDiv>
       </div>
     </section>

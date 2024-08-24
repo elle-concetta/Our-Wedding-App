@@ -9,31 +9,30 @@ export const imageFooter = "/images/footer.png";
 
 export const imageCoupleIntro = [
   "/images/selected/1-the-wedding/1.jpg",
-  "/images/selected/1-the-wedding/2.JPG",
   "/images/selected/1-the-wedding/3.png",
+  "/images/selected/1-the-wedding/2.png",
   "/images/selected/1-the-wedding/4.png",
 ];
 
 export const dateImages = {
   sng: [
     "/images/selected/4-the-welcome/1.jpg",
-    "/images/selected/4-the-welcome/2.jpg",
-    "/images/selected/4-the-welcome/3.jpg",
+    "/images/selected/4-the-welcome/2.png",
   ],
   kpl: [
-    "/images/selected/5-wedding/1.png",
-    "/images/selected/5-wedding/2.png",
-    "/images/selected/5-wedding/3.png",
-  ],
-  kplrsp: [
     "/images/selected/6-reception-date/1.png",
-    "/images/selected/6-reception-date/2.png",
+    "/images/selected/6-reception-date/2.jpg",
     "/images/selected/6-reception-date/3.png",
   ],
+  kplrsp: [
+    "/images/selected/5-wedding/1.png",
+    "/images/selected/5-wedding/2.JPG",
+    "/images/selected/5-wedding/3.png",
+  ],
   bhm: [
-    "/images/selected/7-the-reception/1.png",
-    "/images/selected/7-the-reception/2.png",
     "/images/selected/7-the-reception/3.png",
+    "/images/selected/7-the-reception/5.png",
+    "/images/selected/7-the-reception/2.png",
   ],
 };
 
