@@ -31,10 +31,10 @@ export const Head: HeadFC = () => {
         property="og:description"
         content="Join us as we celebrate a love that’s blossomed into forever – we’re tying the knot and can’t wait to share this magical day with you!"
       />
-      <meta property="og:url" content="https://ankitandelle.com" />
+      <meta property="og:url" content="" />
       <meta
         property="og:image"
-        content="https://ankitandelle.com/images/og-image.png"
+        content="/images/og-image.png"
       />
       <meta property="og:image:width" content="1200" />
       <meta property="og:image:height" content="630" />
