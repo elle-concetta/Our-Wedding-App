@@ -2,7 +2,10 @@
 A wedding invitation application with a reservation system using firestore database and firebase hosting.
 
 ## Demo Video
-<video src="demo.mp4" autoplay loop muted playsinline></video>
+<video autoplay loop muted playsinline width="600">
+  <source src="demo.mp4" type="video/mp4">
+</video>
+
 
 ## Commands
 
