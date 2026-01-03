@@ -2,9 +2,10 @@
 A wedding invitation application with a reservation system using firestore database and firebase hosting.
 
 ## Demo Video
-<p align="center" width="100%">
-<video src="[https://github.com/user-attachments/assets/563d36e5-1c92-49e6-aa88-c873a20ddf1d](https://github.com/elle-concetta/Our-Wedding-App/blob/e63a0629c9d0763cab8353ea863aec4b41437c9f/demo.mp4)" width="80%" controls></video>
-</p>
+<video src="demo.mp4" autoplay loop muted playsinline></video>
+
+[Watch full demo on YouTube](https://youtube.com/shorts/Tv8xGc3kqKA)
+
 
 
 ## Commands
