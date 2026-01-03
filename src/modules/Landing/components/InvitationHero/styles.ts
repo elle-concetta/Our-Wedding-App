@@ -47,6 +47,7 @@ export const AnimatedInvitationHeroWrapper = styled(
 
     &.top {
       top: 4em;
+      color: white;
     }
 
     &.bottom {

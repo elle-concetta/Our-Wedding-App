@@ -59,7 +59,7 @@ export const styEventDateWrapper = css`
       }
 
       p {
-        font-size: 0.9em;
+        font-size: 0.8em;
         line-height: 1.8;
       }
 
@@ -96,6 +96,8 @@ export const styEventDateWrapper = css`
       .note {
         font-size: 0.7em;
         opacity: 0.7;
+        margin-bottom: 1em;
+          
       }
 
       .dresscode {
@@ -188,6 +190,9 @@ export const styEventDateWrapper = css`
       .description-content {
         border-bottom-right-radius: 32px;
         border-bottom-left-radius: 0;
+
+      
+
       }
     }
   }

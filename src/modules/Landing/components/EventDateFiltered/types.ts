@@ -10,9 +10,13 @@ export interface EventDate {
   place: string;
   mapLink: string;
   images: string[];
-  note?: string;
-  vendorName?: string;
-  dresscode?: string;
+  note: string;
+  note_1: string;
+  note_2: string;
+  note_3: string;
+  note_4: string;
+  vendorName: string;
+  dresscode: string;
   whenDate: string;
   whenMonth: string;
   rawDate: {
@@ -21,3 +25,4 @@ export interface EventDate {
     endTime: string;
   };
 }
+

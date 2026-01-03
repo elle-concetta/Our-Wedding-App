@@ -21,7 +21,7 @@ export const dateImages = {
   ],
   kpl: [
     "/images/selected/6-reception-date/1.png",
-    "/images/selected/6-reception-date/2.jpg",
+    "/images/selected/6-reception-date/2.JPG",
     "/images/selected/6-reception-date/3.png",
   ],
   kplrsp: [

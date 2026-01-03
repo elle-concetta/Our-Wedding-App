@@ -59,6 +59,10 @@ const EventCard = (props: EventCardProps) => {
   }, [
     date.mapLink,
     date.note,
+    date.note_1,
+    date.note_2,
+    date.note_3,
+    date.note_4,
     date.place,
     date.rawDate.endTime,
     date.rawDate.startDate,
@@ -114,6 +118,10 @@ const EventCard = (props: EventCardProps) => {
             )}{" "}
             <p className="place">{date.place}</p>
             <p className="note">{date.note}</p>
+            <p className="note_1">{date.note_1}</p>
+            <p className="note_2">{date.note_2}</p>
+            <p className="note_3">{date.note_3}</p>
+            <p className="note_4">{date.note_4}</p>
           </div>
         </div>
         <div className="description-date">

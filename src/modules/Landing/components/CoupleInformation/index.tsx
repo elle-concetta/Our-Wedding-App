@@ -95,7 +95,7 @@ const CoupleInformation = () => {
             Andrew (Bernie) Fassler
           </AnimatedText>
           <AnimatedText className="profile-parent">
-            Amy Kristine Eppers
+            Amy Elizabeth Eppers Fassler
           </AnimatedText>
         </div>
       </div>

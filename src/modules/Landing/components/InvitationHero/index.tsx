@@ -72,8 +72,8 @@ const InvitationHero = () => {
 
       <section className="bottom" >
         <AnimatedTrail open={true}>
-          <p>November 2025</p>
-          <p>Florida</p>
+          <p>November 7th & 8th, 2025</p>
+          <p>Fort Lauderdale, Florida</p>
 
           <button onClick={handleOpenInvitation}>Open Invitation</button>
         </AnimatedTrail>

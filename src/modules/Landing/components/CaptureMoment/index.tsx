@@ -20,7 +20,7 @@ const CaptureMoment = () => {
             layers={[{ image: "/images/single-photo.jpg", speed: -10 }]}
           >
             <div className="text-description">
-              <AnimatedText className="hashtag">#ANKITANDELLE</AnimatedText>
+              <AnimatedText className="hashtag">#AMINEVERAFTER</AnimatedText>
               <AnimatedText className="text">
                 The Wedding of Ankit & Elle 🤍
               </AnimatedText>

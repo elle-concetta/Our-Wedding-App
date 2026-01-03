@@ -1,3 +1,4 @@
+"use client";
 
 import {
     collection,
@@ -90,7 +91,7 @@ function Reservation() {
                         </div>
                         <div className="input-group">
                             <textarea
-                                placeholder="You can leave a message here"
+                                placeholder="Kindly let us know if you'll be able to attend both wedding events on November 7th and 8th, or if you'll only be joining us for one of the days."
                                 value={inputValue.message}
                                 onChange={(e) =>
                                     setInputValue({ ...inputValue, message: e.target.value })
@@ -107,6 +108,8 @@ function Reservation() {
                                 >
                                     Attending
                                 </button>
+                            </div>
+                            <div css={styReservationValue(inputValue.presence === "Not Attending")}>
                                 <button
                                     type="button"
                                     className={inputValue.presence === "Not Attending" ? "not-coming" : ""}

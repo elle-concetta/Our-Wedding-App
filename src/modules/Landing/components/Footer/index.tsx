@@ -25,8 +25,8 @@ const Footer = () => {
           <p>
             <b>Ankit & Elle</b>
           </p>
-            <p style={{backgroundColor: "black", color: "white"}}>
-                &copy; 2024 Created with 🤍 by{" "}
+            <p style={{color: "white"}}>
+                &copy; 2025 Created with 🤍 by{" "}
                 <a
                     href="https://github.com/elle-concetta"
                     target="_blank"

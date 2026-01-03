@@ -7,9 +7,13 @@ const EventDate = () => {
     <section css={styEventDateWrapper}>
       <h1>Save The Date</h1>
 
-      {allDates.map((date, idx) => (
+
+
+
+        {allDates.map((date, idx) => (
         <EventCard date={date} index={idx} key={`date-${idx}`} />
-      ))}
+
+  ))}
     </section>
   );
 };
